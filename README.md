@@ -56,13 +56,14 @@ This document was generated using automated extraction tools. While every effort
 
 ## Known Issues & Feedback
 
-I am releasing this as Version 1.0 to get it into the hands of peers who need it.
+I am releasing this as Version 1.1 to get it into the hands of peers who need it.
 
-- **Numbering:** You may notice some itemised lists (e.g. 1., 2., 3.) rendering with slight indentation quirks or numbering resets. I am actively refining the CSS logic to fix this in v1.1.
+**Numbering** and **internal link** issues in Version 1.0 have been resolved. 
 
 I welcome your feedback on structure and usability.
 
 ## Download & Access
+
 You can download the compiled PDF directly from the [GitHub](https://github.com/zikec/alfinstructions) repository. 
-1. Click on the `ATO_Local_File_Instructions_2025...pdf` file in the file list.
+1. Click on the `ATO_Local_File_Instructions_2025_FINAL.pdf` file in the file list.
 2. Click the **"Download raw file"** button (the small download icon near the top right of the file viewer) to save it to your computer.
